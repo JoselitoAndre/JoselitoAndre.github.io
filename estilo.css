@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background-color: #3F51B5;
+	text-align: center;
+	padding: 5px;
+	color: white;
+}
+
+	header .profile-picture {
+		border-radius: 50%;
+		width: 125px;
+		height: 125px;
+	}
+
+section {
+	background-color: #C5CAE9;
+	padding: 10px;
+	margin: 20px;
+	border-radius: 15px;
+}
+
+	section .title {
+        color: #616161;
+    }
+
+    section .content {
+        color: #757575;
+    }
+
+footer {
+	background-color: #3F51B5;
+	text-align: center;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
